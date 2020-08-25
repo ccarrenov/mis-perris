@@ -1,0 +1,154 @@
+body {
+    background-color: #3DD8AD;
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.nav-bar-perris {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgba(192, 247, 221, 0.5)
+}
+
+.nav-bar-perris>div {
+    width: 800px;
+    margin: 10px;
+    align-content: space-around;
+}
+
+nav {
+    display: inline-block;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    color: white;
+}
+
+nav li a:link {
+    text-decoration: none;
+}
+
+.portada {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.portada>img {
+    width: 70%;
+    margin-left: 15%;
+    align-content: space-around;
+}
+
+.contact {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contact>div {
+    width: 550px;
+    margin: 10px;
+    align-content: space-around;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 15px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: white;
+    color: #3DD8AD;
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    margin-left: 15px;
+}
+
+.fa-instagram {
+    background: white;
+    color: #3DD8AD;
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    margin-left: 15px;
+}
+
+.fa-google-plus {
+    background: white;
+    color: #3DD8AD;
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    margin-left: 15px;
+}
+
+.fa-envelope {
+    background: white;
+    color: #3DD8AD;
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    margin-left: 15px;
+}
+
+.contenido {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    color: black;
+}
+
+.contenido>div {
+    width: 800px;
+    margin: 10px;
+    align-content: space-around;
+    margin-right: 2%;
+}
+
+.img-contenido {
+    width: 50%;
+}
+
+.text-align-left {
+    text-align: left;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.button {
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: darkgray;
+    color: white;
+}
+
+.footer>div {
+    margin: 20px;
+    align-content: space-around;
+}
