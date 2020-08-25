@@ -1,1 +1,2 @@
-
+# mis-perris
+La Fundación Mis Perris, dedicada al rescate, rehabilitación y reubicación de perros en peligro o abandonados, ha comenzado una fuerte campaña de difusión con el fin de lograr financiamiento para seguir funcionando. Una de las líneas fuertes de la campaña, es la construcción de un sitio web que permita a las personas conocer las acciones que realizan y apoyarlos con donaciones o voluntariado. En una primera etapa, se ha planeado la construcción de una página web sencilla que enganche a los visitantes a conocer la fundación y las campañas que ella realiza. Un diseñador voluntario de la fundación ha diseñado una maqueta de la página y se te ha solicitado la construcción en HTML y CSS de ella para publicarla lo antes posible.
